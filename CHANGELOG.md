@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-01-19)
+## Unreleased (2025-01-21)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`4906ee2`](https://github.com/stdlib-js/stdlib/commit/4906ee23b843a9f5ebd78f9633b084185a40a0d7) - **docs:** fix link _(by Athan Reines)_
 -   [`8995729`](https://github.com/stdlib-js/stdlib/commit/8995729d86baba1711ca5c1305ebca1bb990f3ff) - **feat:** add `lapack/base/zlaset` [(#4789)](https://github.com/stdlib-js/stdlib/pull/4789) _(by Ricky Reusser, Athan Reines)_
 
 </details>
