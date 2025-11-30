@@ -42,6 +42,7 @@
     "@stdlib/complex-float64-imag": "^0.1.1",
     "@stdlib/complex-float64-real": "^0.1.1",
     "@stdlib/math-base-special-fast-min": "^0.3.0",
+    "@stdlib/ndarray-base-assert-is-column-major-string": "github:stdlib-js/ndarray-base-assert-is-column-major-string#main",
     "@stdlib/ndarray-base-assert-is-row-major": "^0.2.2",
     "@stdlib/ndarray-base-nullary-loop-interchange-order": "^0.2.2",
     "@stdlib/strided-base-reinterpret-complex128": "^0.2.2",
