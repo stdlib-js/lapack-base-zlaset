@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-11-30)
+## Unreleased (2025-12-02)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`01e7bd4`](https://github.com/stdlib-js/stdlib/commit/01e7bd455c657f195c00412a97f3ea6bbef99af9) - **docs:** add missing requires and update example code in TSDoc declarations _(by Philipp Burckhardt)_
 -   [`4ebbd97`](https://github.com/stdlib-js/stdlib/commit/4ebbd97f55188dd986e9b98b26972c3729b1f6e4) - **docs:** fix TypeScript declarations doctest lint errors _(by Philipp Burckhardt)_
 -   [`3dc5f1e`](https://github.com/stdlib-js/stdlib/commit/3dc5f1ef335565c05ee4be5878de5b587c7f28d6) - **docs:** fix require paths for complex arrays _(by Philipp Burckhardt)_
 -   [`26695c2`](https://github.com/stdlib-js/stdlib/commit/26695c2f08c0c9c6ddd1328c59cb114a046d9adf) - **refactor:** use base assertion utility _(by Athan Reines)_
