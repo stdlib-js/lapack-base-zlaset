@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-12-02)
+## Unreleased (2025-12-04)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`1491c49`](https://github.com/stdlib-js/stdlib/commit/1491c49bbcf459dbcb011bdd5945b31a27e63510) - **docs:** improve doctests for complex number instances in `lapack/base/zlaset` [(#8753)](https://github.com/stdlib-js/stdlib/pull/8753) _(by Sagar Ratna Chaudhary)_
 -   [`01e7bd4`](https://github.com/stdlib-js/stdlib/commit/01e7bd455c657f195c00412a97f3ea6bbef99af9) - **docs:** add missing requires and update example code in TSDoc declarations _(by Philipp Burckhardt)_
 -   [`4ebbd97`](https://github.com/stdlib-js/stdlib/commit/4ebbd97f55188dd986e9b98b26972c3729b1f6e4) - **docs:** fix TypeScript declarations doctest lint errors _(by Philipp Burckhardt)_
 -   [`3dc5f1e`](https://github.com/stdlib-js/stdlib/commit/3dc5f1ef335565c05ee4be5878de5b587c7f28d6) - **docs:** fix require paths for complex arrays _(by Philipp Burckhardt)_
@@ -41,11 +42,12 @@
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Philipp Burckhardt
 -   Ricky Reusser
+-   Sagar Ratna Chaudhary
 
 </section>
 
