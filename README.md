@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import zlaset from 'https://cdn.jsdelivr.net/gh/stdlib-js/lapack-base-zlaset@esm/index.mjs';
+import zlaset from 'https://cdn.jsdelivr.net/gh/stdlib-js/lapack-base-zlaset@v0.1.1-esm/index.mjs';
 ```
 
 #### zlaset( order, uplo, M, N, alpha, beta, A, LDA )
@@ -186,7 +186,7 @@ import Complex128 from 'https://cdn.jsdelivr.net/gh/stdlib-js/complex-float64-ct
 import ndarray2array from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-to-array@esm/index.mjs';
 import numel from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-numel@esm/index.mjs';
 import shape2strides from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-shape2strides@esm/index.mjs';
-import zlaset from 'https://cdn.jsdelivr.net/gh/stdlib-js/lapack-base-zlaset@esm/index.mjs';
+import zlaset from 'https://cdn.jsdelivr.net/gh/stdlib-js/lapack-base-zlaset@v0.1.1-esm/index.mjs';
 
 var shape = [ 5, 8 ];
 var order = 'row-major';
