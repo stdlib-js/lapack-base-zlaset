@@ -42,6 +42,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import zlaset from 'https://cdn.jsdelivr.net/gh/stdlib-js/lapack-base-zlaset@deno/mod.js';
+```
+The previous example will load the latest bundled code from the deno branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/lapack-base-zlaset/tags). For example,
+
+```javascript
 import zlaset from 'https://cdn.jsdelivr.net/gh/stdlib-js/lapack-base-zlaset@v0.1.1-deno/mod.js';
 ```
 
@@ -181,7 +186,7 @@ import Complex128 from 'https://cdn.jsdelivr.net/gh/stdlib-js/complex-float64-ct
 import ndarray2array from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-to-array@deno/mod.js';
 import numel from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-numel@deno/mod.js';
 import shape2strides from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-shape2strides@deno/mod.js';
-import zlaset from 'https://cdn.jsdelivr.net/gh/stdlib-js/lapack-base-zlaset@v0.1.1-deno/mod.js';
+import zlaset from 'https://cdn.jsdelivr.net/gh/stdlib-js/lapack-base-zlaset@deno/mod.js';
 
 var shape = [ 5, 8 ];
 var order = 'row-major';
