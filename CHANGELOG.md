@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-04-08)
+## Unreleased (2026-05-09)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`88fbe64`](https://github.com/stdlib-js/stdlib/commit/88fbe641ebaee224f8ab9b4bf9bb18a1634222fb) - **docs:** improve doctests for complex number typed arrays in `lapack/base/zlaset` [(#12024)](https://github.com/stdlib-js/stdlib/pull/12024) _(by Karan Anand)_
 -   [`648fb21`](https://github.com/stdlib-js/stdlib/commit/648fb21364cce31bee7b94e6aaa2f136b7801f87) - **bench:** refactor to use string interpolation in `lapack/base/zlaset` [(#10129)](https://github.com/stdlib-js/stdlib/pull/10129) _(by Prajjwal Bajpai, Athan Reines)_
 
 </details>
@@ -24,9 +25,10 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
+-   Karan Anand
 -   Prajjwal Bajpai
 
 </section>
